@@ -1,0 +1,7 @@
+*.log
+*.pdb
+*.exe
+*.idb
+*.ilk
+x64/
+/.vs/
